@@ -1,8 +1,8 @@
-# desafio-da-dio-de-criar-meu-primeiro-reposit-rioo
+# desafio-da-dio-de-criar-meu-primeiro-repositorio
 meu primeiro repositório
 
 {link para abaixar o git.}(https://git-scm.com/downloads)
 
-{links úteis}
+# links úteis
 
 (https://www.markdownguide.org/)
